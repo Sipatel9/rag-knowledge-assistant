@@ -1,0 +1,1 @@
+RAG improves accuracy by retrieving relevant context.
