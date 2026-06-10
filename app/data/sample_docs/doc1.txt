@@ -1,0 +1,1 @@
+AWS S3 is used for object storage.
